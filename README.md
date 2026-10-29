@@ -1,2 +1,2 @@
 # certifications
-Certificates from seminars, workshops, and webinars.
+Certificates from seminars, workshops, webinars and online courses.
